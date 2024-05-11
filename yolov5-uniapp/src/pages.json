@@ -1,0 +1,23 @@
+{
+	"pages": [
+		{
+			"path": "pages/login/login"
+		},
+		{
+			"path": "pages/register/register"
+		},
+		{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "pages/history/history"
+		}
+	],
+	"globalStyle": {
+		"navigationStyle": "custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "yolov5-uniapp",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
