@@ -9,3 +9,13 @@
 
 1. `Webstorm`点击`package.json`文件中 `"dev:h5": "uni"`运行按钮或控制台输入 `npm run dev`
 2. `Pycharm`点击`app.py`中运行按钮
+
+## 三、项目截图
+
+### 3.1 异物检测
+
+![Index](./index.png)
+
+### 3.2 历史记录
+
+![History](./history.png)
